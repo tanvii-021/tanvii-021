@@ -38,9 +38,6 @@ I specialize in bridging the gap between **Physical Data Systems** and **AI-Driv
 
 ---
 
-### 📈 GitHub Analytics
-*(Note: You can add dynamic GitHub stats cards here if desired, e.g., github-readme-stats)*
-
 <br>
 
 ### 📫 Let's Connect
