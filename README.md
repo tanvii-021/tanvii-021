@@ -38,8 +38,6 @@ I specialize in bridging the gap between **Physical Data Systems** and **AI-Driv
 
 ---
 
-<br>
-
 ### 📫 Let's Connect
 <p>
   <a href="https://linkedin.com/in/tanvii-021" target="_blank">
